@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "email": "felipe@gmail.com",
+      "password": "$2a$10$00IwQ4hj.89KwW3QS1bqlOmWe.ANnz08EszsUf6o2OrsbX3LQJGk2",
+      "id": 1
+    },
+    {
+      "email": "felipe1234@gmail.com",
+      "password": "$2a$10$5erQQMegsRToZ3tRAyLSpeUQx4hEarzvwxKvytimeEZrptLbwmbH.",
+      "id": 2
+    },
+    {
+      "email": "fernanda@gmail.com",
+      "password": "$2a$10$lJS6M1fWwb/dJL.FyriiU.yPxWB8fl09GPHZoD6lj22DF3z3apM.O",
+      "id": 3
+    }
+  ],
+  "journals": [
+    {
+      "id": "90e85090-396c-11ef-8ef6-85eb592697f6",
+      "content": "Tercou dia 25",
+      "created_at": "2024-06-30 18:43:21.060420",
+      "updated_at": "2024-06-30 18:43:21.060420",
+      "userId": 2
+    },
+    {
+      "id": "7d64a970-3984-11ef-b1c3-47c195d97b37",
+      "content": "Domingou 23",
+      "created_at": "2024-06-23 21:37:34.241036",
+      "updated_at": "2024-06-23 21:37:34.241036",
+      "userId": 1
+    },
+    {
+      "id": "ae8b19c0-3985-11ef-b1c3-47c195d97b37",
+      "content": "Finalmente terca",
+      "created_at": "2024-06-25 21:46:04.327922",
+      "updated_at": "2024-07-03 22:46:40.700538",
+      "userId": 1
+    }
+  ]
+}
